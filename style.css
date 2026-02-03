@@ -1,0 +1,23 @@
+header{
+    text-align: center;
+    background-color: #A5C89E;
+    border-radius: 10px 10px 10px 10px;
+}
+header img{
+    height: 200px;
+}
+nav a{
+    padding: 5px 30px;
+    color: #FFFBB1;
+    text-decoration: none;
+    font-family: 'Darumadrop One'; font-size: 25px;
+    border-radius: 0px 15px 0px 15px;
+    transition: 1s;
+}
+nav a:hover{
+    color: rgb(0, 0, 0);
+    background-color: #D8E983;
+    border-radius: 0px 15px 0px 15px;
+    box-shadow: 5px 5px 0px 0px #AEB877;
+    transition: 1s;
+}
