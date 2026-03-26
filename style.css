@@ -118,41 +118,37 @@ section {
 }
 .howto {
     padding: 60px 20px;
-    background-color: #fefae0; /* Warna background lembut */
-    display: flex;
+    background-color: #fefae0;
     justify-content: center;
 }
 
-/* Container utama di dalam section */
 .deskHowto {
     max-width: 800px;
     width: 100%;
     background: #ffffff;
     padding: 40px;
     border-radius: 50px;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05); /* Shadow halus */
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05); 
 }
 
-/* Judul "Cara Pembuatan" */
+
 .penjelasan h2 {
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
     color: #2c3e50;
-    font-size: 2rem;
+    font-size: 32px;
     margin-bottom: 25px;
     text-align: center;
-    border-bottom: 3px solid #6c5ce7; /* Aksen garis bawah */
+    border-bottom: 3px solid #6c5ce7; 
     padding-bottom: 10px;
 }
 
-/* Isi teks instruksi */
 .penjelasan p {
     font-family: 'Open Sans', sans-serif;
     color: #4a4a4a;
-    line-height: 1.8; /* Jarak antar baris agar mudah dibaca */
-    font-size: 1.1rem;
+    line-height: 1.8; 
+    font-size: 17px;
     text-align: left;
 }
-
 
 .profile { background: white; }
 .cardProfile {
